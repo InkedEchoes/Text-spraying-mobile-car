@@ -1,7 +1,7 @@
 # Overview:
 
 ### Time: 2023 FA
-### Course: ENGR 1000
+### Course: ENGR1000
 
 ### Abstract
 Due to advancements in urbanization, the demand for text-spraying has notably surged. This technique is crucial in advertising, slogan display, and venue decoration, making it vital for government, business owners, event planners, as well as urban developers. However, current 
